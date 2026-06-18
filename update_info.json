@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.4",
-  "apk_url": "https://github.com/Nixoticoose/VOLOT-Skill-tracker_release/releases/download/v1.0.0/volot_skill_tracker_v1_0_4.apk",
+  "latest_version": "1.0.5",
+  "apk_url": "https://github.com/Nixoticoose/VOLOT-Skill-tracker_release/releases/download/v1.0.0/volot_skill_tracker_v1_0_5.apk",
   "release_notes": {
-    "ru": "• Добавлена мультиязычность!\n• Исправлены мелкие баги.\n• Улучшена стабильность бэкапов.",
-    "en": "• Added multi-language support!\n• Minor bug fixes.\n• Improved backup stability."
+    "ru": "• Добавлены заметки на экране навыка!📝\n• Добавлен таймер!🕓.\n• Исправлены баги!🐞\n• Изменена история навыков!📅",
+    "en": "• Notes added to the skill screen! 📝\n• Timer added! 🕓\n• Bugs fixed! 🐞\n• Skill history updated! 📅"
   }
 }
