@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.0.7",
-  "apk_url": "https://github.com/Nixoticoose/VOLOT-Skill-tracker_release/releases/download/v1.0.0/volot_skill_tracker_v1_0_7.apk",
+  "latest_version": "1.0.8",
+  "apk_url": "https://github.com/Nixoticoose/VOLOT-Skill-tracker_release/releases/download/v1.0.0/volot_skill_tracker_v1.apk",
   "release_notes": {
-    "ru": "• Добавлена настройка таймера!🕓\n• Появилась возможность редактировать задачи.\n• Добавлены уведомления для задач",
-    "en": "• Added timer setting!🕓\n• Added the ability to edit tasks.\n• Added notifications for tasks"
+    "ru": "• Переделаны задачи\n• Появился Архив Славы (Архив задач).\n• Исправлены баги!",
+    "en": "• Tasks have been reworked\n• The Glory Archive (Task Archive) has appeared.\n• Bugs have been fixed!"
   }
 }
